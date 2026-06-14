@@ -84,7 +84,7 @@ namespace tylowprivate
             this.label1.Name = "label1";
             this.label1.Size = new Size(90, 18);
             this.label1.TabIndex = 0;
-            this.label1.Text = "tylow private";
+            this.label1.Text = "tylow private - open source";
             this.siticonePanel1.BackColor = Color.FromArgb(17, 17, 17);
             this.siticonePanel1.Controls.Add(this.bunifuButton27);
             this.siticonePanel1.Controls.Add(this.bunifuButton26);
