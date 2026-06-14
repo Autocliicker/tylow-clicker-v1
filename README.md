@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <sub>Maintained by @ky.aa</sub>
+  <sub>Reversed by @ky.aa</sub>
 </p>
 
 ---
