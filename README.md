@@ -1,30 +1,35 @@
 <p align="center">
   <a href="https://youtu.be/9Tx2s11pMmM?si=dOC07qHloyA8pW5t">
-    <img src="0.jpg" alt="banner" />
+    <img src="0.jpg" alt="Preview" />
   </a>
 </p>
 
+<h1 align="center">Project Archive</h1>
+
 <p align="center">
-  <strong>Original Creator : https://www.youtube.com/@tylowr</strong>
-</p>
-<p align="center">
-  <strong>Click the Image to View The video</strong>
+  Click the image above to watch the original showcase video.
 </p>
 
 <p align="center">
-  <strong>@ky.aa</strong>
+  <b>Original Creator:</b><br>
+  <a href="https://www.youtube.com/@tylowr">@tylowr</a>
 </p>
 
 <p align="center">
-  <strong>What they use to compile? (Nuget)</strong>
-</p>
-<p aling="center">
-  <strong>Siticone.Desktop.UI.WinForms</strong>
-</p>
-<p aling="center">
-  <strong>Bunifu.UI.WinForms</strong>
+  <sub>Maintained by @ky.aa</sub>
 </p>
 
-<p aling="center">
-  <strong>All is that needed to compile :3</strong>
-</p>
+---
+
+## Requirements
+
+Install the following NuGet packages before compiling:
+
+* `Siticone.Desktop.UI.WinForms`
+* `Bunifu.UI.WinForms`
+
+## Build Notes
+
+That's everything required to compile the project.
+
+Have fun! :3
