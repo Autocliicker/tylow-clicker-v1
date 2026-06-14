@@ -14,3 +14,11 @@
 <p align="center">
   <strong>@ky.aa</strong>
 </p>
+
+<p align="center">
+  <strong>What they use to compile? (Nuget)</strong>
+  <strong>Siticone.Desktop.UI.WinForms</strong>
+  <strong>Bunifu.UI.WinForms</strong>
+
+  <strong>All is that needed to compile :3</strong>
+</p>
