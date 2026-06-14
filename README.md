@@ -17,8 +17,14 @@
 
 <p align="center">
   <strong>What they use to compile? (Nuget)</strong>
+</p>
+<p aling="center">
   <strong>Siticone.Desktop.UI.WinForms</strong>
+</p>
+<p aling="center">
   <strong>Bunifu.UI.WinForms</strong>
+</p>
 
+<p aling="center">
   <strong>All is that needed to compile :3</strong>
 </p>
