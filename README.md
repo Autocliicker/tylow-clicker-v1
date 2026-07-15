@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <sub>Reversed by @ky.aa</sub>
+  <sub>Reversed by @falditaa</sub>
 </p>
 
 ---
