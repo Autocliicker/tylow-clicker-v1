@@ -1,5 +1,5 @@
 @echo off
-title tylow clicker V1 ( opensource ) ( @ky.aa )
+title tylow clicker V1 ( opensource ) ( @falditaa )
 echo Compiling Tylow clicker in a portable executable...
 echo.
 if exist "tylowprivate\bin\Release\net8.0-windows\publish" rmdir /s /q "bin\Release\net8.0-windows\publish"
